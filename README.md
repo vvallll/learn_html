@@ -1,2 +1,3 @@
-# learn_html
+# HTML
+
 Exercise: Communicate using HTML
